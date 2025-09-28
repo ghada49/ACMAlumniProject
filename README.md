@@ -1,5 +1,5 @@
 # Deal Finder
-An ACM Alumni project at AUB.
+DealFinder uses web scrapers to retrieve the price of a same product over different online shopping websites in Lebanon and displays the best deals.
 
 
 # NOTE
